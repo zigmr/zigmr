@@ -1,4 +1,4 @@
-![Software Development || Data Analytics ](https://www.linkedin.com/in/zineb-gamra/)
+![Software Development || Data Analytics ](https://github.com/zigmr/zigmr/blob/main/banner.jfif)
 # Hi there 👋, I'm Zineb Gamra
 ### Software Development || Data Analytics
 
