@@ -1,9 +1,11 @@
-### Hi there 👋, Zineb Gamra
-#### Software Development || Data Analytics 
+![Software Development || Data Analytics ](https://www.linkedin.com/in/zineb-gamra/)
+# Hi there 👋, I'm Zineb Gamra
+### Software Development || Data Analytics
 
 I'm Zineb, a Computer Programming and Web Development as well as a Data Science student. I enjoy learning programming languages, frameworks, and everything that has to do with Software Development.
 
-Skills: Python / JS / HTML / CSS/ 
+### Skills
+Python / JS / HTML / CSS/ 
 
 - 🔭 I’m currently working on Personal projects 
 - 🌱 I’m currently learning Frameworks and APIs 
